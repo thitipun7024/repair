@@ -1,0 +1,4 @@
+1.npm install nodemon
+2.npm install express
+3.npm install cors 
+nodemon server.js
